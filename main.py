@@ -5,8 +5,8 @@ from aiogram.filters import Command
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
 # Отримуємо дані з налаштувань Render (Environment Variables)
-API_TOKEN = os.getenv('BOT_TOKEN')
-ADMIN_ID = int(os.getenv('ADMIN_ID', '0'))
+API_TOKEN = os.getenv(8783067050:AAGa88HcpDfuz8Sky5r4tcsIjej6wI2z_8c)
+ADMIN_ID = int(os.getenv(NpForumbot, '0'))
 USERS_FILE = "users_db.txt"
 
 bot = Bot(token=API_TOKEN)
